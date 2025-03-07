@@ -14,7 +14,7 @@ struct Cli {
     #[arg(short, long, value_name = "DELEMETER")]
     delemeter: Option<String>,
 
-    #[arg(short, long, value_name = "CONFIG", default_value = "./config.toml")]
+    #[arg(short, long, value_name = "CONFIG", default_value = "/home/byron/Documents/projects/unicode-formatter/config.toml")]
     config: Option<PathBuf>,
 
     // #[arg(short, long, value_name = "FILE")]
