@@ -2,3 +2,68 @@ delemeter = "#U"
 
 [replacements]
 "alpha" = "α"
+"Alpha" = "Α"
+
+"beta" = "β"
+"Beta" = "Β"
+
+"gamma" = "γ"
+"Gamma" = "Γ"
+
+"delta" = "δ"
+"Delta" = "Δ"
+
+"epsilon" = "ε"
+"Epsilon" = "Ε"
+
+"zeta" = "ζ"
+"Zeta" = "Ζ"
+
+"nthingy" = "η"
+"Nthingy" = "Η"
+
+"theta" = "θ"
+"Theta" = "Θ"
+
+"kappa" = "κ"
+"Kappa" = "Ι"
+
+"lambda" = "λ"
+"Lambda" = "Λ"
+
+"mu" = "μ"
+"Mu" = "Μ"
+
+"nu" = "ν"
+"Nu" = "Ν"
+
+"eta" = "ξ"
+"Eta" = "Ξ"
+
+"rho" = "ρ"
+"Rho" = "Ρ"
+
+"sum" = "ς"
+"Sum" = "Σ"
+
+"sigma" = "σ"
+"Sigma" = "Σ"
+
+"tau" = "τ"
+"Tau" = "Τ"
+
+"nus" = "υ"
+"Nus" = "Υ"
+
+"phi" = "φ"
+"Phi" = "Φ"
+
+"xi" = "χ"
+"Xi" = "Χ"
+
+"wave" = "ψ"
+"Wave" = "Ψ"
+
+"omega" = "ω"
+"Omega" = "Ω"
+

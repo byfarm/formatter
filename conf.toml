@@ -1,0 +1,5 @@
+delemeter = "#U"
+
+[replacements]
+"alpha" = "not a greek"
+"Alpha" = "Α"
