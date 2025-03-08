@@ -15,7 +15,7 @@ echo ";alpha ;zeta" | $DEBUG_PATH
 echo ";Alpha ;alpha" | $DEBUG_PATH
 
 # test load config
-echo ";Alpha ;alpha" | $DEBUG_PATH --config ./conf.toml
+echo ";Alpha ;alpha" | $DEBUG_PATH --config ./testing/conf.toml
 
 # test special delemeter
 echo "#Dalpha" | $DEBUG_PATH --delemeter "#D"
