@@ -1,4 +1,4 @@
-delemeter = "uu"
+delemeter = ";"
 
 [replacements]
 "alpha" = "α"
